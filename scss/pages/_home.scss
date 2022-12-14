@@ -1,5 +1,5 @@
 .home-bgImg-container {
-  @include bgImage(100vh, "../../img/model-1.png");
+  @include bgImage(100vh, "/img/model-1.png");
 }
 .home {
   height: 80vh;
